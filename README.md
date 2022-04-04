@@ -1,5 +1,6 @@
 <h1 align="center">Hello World 👋 I'm Stefano Piotti</h1>
 
+
 <h3 align="center">A passionate globetrotter 🌍 based in italy (at least by now)</h3>
 <p>In general I would define myself as a dreamer 💭💭 I love good Food, Sports, Computer Science, Finance and Blockchain.</p>
 
