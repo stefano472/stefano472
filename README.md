@@ -3,7 +3,7 @@
 <h3>A passionate globetrotter 🌍 based in italy (at least right now)</h3>
 <p>I would call myself a dreamer 💭💭 I love good Food, Sports, Computer Science, Finance and Blockchain.</p>
 
-<p>I'm currently investing in myself and studying with boolean.careers <a href="https://boolean.careers/" target="blank"><img align="center" src="https://boolean.careers/favicon/favicon.ico" alt="boolean.careers" height="30" width="30" /></a> in order to become a Full Stack WebDev</p>
+<p>I've always been working on improving myself and I'm currently studying with boolean.careers <a href="https://boolean.careers/" target="blank"><img align="center" src="https://boolean.careers/favicon/favicon.ico" alt="boolean.careers" height="30" width="30" /></a> to become a Full Stack WebDev</p>
 
 - You can reach me here **stefanopiotti472@gmail.com** 📫
 <hr>
@@ -13,8 +13,8 @@
 <h3 align="left">Let's connect:</h3>
 <p align="right"> 
   <a href="https://twitter.com/@piotada1" target="blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="@piotada1" height="30" width="35" /></a>
-  <a href="https://instagram.com/piotada" target="blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="piotada" height="30" width="35" /></a>
-  <a href="https://discord.gg/Piotada#9573" target="blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" alt="Piotada#9573" height="30" width="35" /></a>
+  <a href="https://instagram.com/piotada" target="blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="piotada" height="30" width="40" /></a>
+  <a href="https://discord.gg/Piotada#9573" target="blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" alt="Piotada#9573" height="30" width="30" /></a>
 </p>
 <hr>
 
