@@ -1,9 +1,9 @@
-<h1 align="center">Hey what's up? 👋 I'm Stefano Piotti</h1>
+<h1>Hey what's up? 👋 I'm Stefano Piotti</h1>
 
-<h3 align="center">A passionate globetrotter 🌍 based in italy (at least right now)</h3>
-<p align="center">I would call myself a dreamer 💭💭 I love good Food, Sports, Computer Science, Finance and Blockchain.</p>
+<h3>A passionate globetrotter 🌍 based in italy (at least right now)</h3>
+<p>I would call myself a dreamer 💭💭 I love good Food, Sports, Computer Science, Finance and Blockchain.</p>
 
-<p align="center">I'm currently investing in myself and studying with boolean.careers <a href="https://boolean.careers/" target="blank"><img align="center" src="https://boolean.careers/favicon/favicon.ico" alt="boolean.careers" height="30" width="30" /></a> in order to become a Full Stack WebDev</p>
+<p>I'm currently investing in myself and studying with boolean.careers <a href="https://boolean.careers/" target="blank"><img align="center" src="https://boolean.careers/favicon/favicon.ico" alt="boolean.careers" height="30" width="30" /></a> in order to become a Full Stack WebDev</p>
 
 - You can reach me here **stefanopiotti472@gmail.com** 📫
 <hr>
