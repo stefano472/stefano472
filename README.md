@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋 I'm Stefano Piotti</h1>
+<h1 align="center">Hey what's up? 👋 I'm Stefano Piotti</h1>
 
 
 <h3 align="center">A passionate globetrotter 🌍 based in italy (at least by now)</h3>
