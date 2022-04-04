@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋 I'm Stefano Piotti</h1>
 
 <h3 align="center">A passionate globetrotter 🌍 from italy</h3>
-<p>In general I would define myself as a dreamer ☁️ I love Food, Sports, Web Dev, Finance and Blockchain</p>
+<p>In general I would define myself as a dreamer 💭💭 I love Food, Sports, Web Dev, Finance and Blockchain</p>
 
 <p>I'm currently studying with Boolean in order to become a Full Stack WebDev</p>
 
