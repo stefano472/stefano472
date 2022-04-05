@@ -13,7 +13,7 @@
 
 <h3 align="left">Let's connect:</h3>
 <p align="right"> 
-  <a href="https://twitter.com/@piotada1" target="blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="@piotada1" height="30" width="35" /></a>
+  <a href="https://twitter.com/@piotada1" target="blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="@piotada1" height="30" width="30" /></a>
   <a href="https://instagram.com/piotada" target="blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="piotada" height="30" width="40" /></a>
   <a href="https://discord.gg/wF2ybFdX" target="blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" alt="Piotada#9573" height="30" width="30" /></a>
 </p>
@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="right"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html5"     width="40" height="40"/> </a>  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a>  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/9e1ef972c8bb947e24b388a82b6a78243f6f9149/icons/CSS.svg" alt="css3" width="40" height="40"/> </a>  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" alt="sass" width="40" height="40"/> </a> 
