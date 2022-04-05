@@ -1,5 +1,5 @@
 
-# Hey what's up? 👋 I'm Stefano Piotti
+# Hey what's up? 👋 I'm Stefano
 
 <h3>A passionate globetrotter 🌍 based in italy (at least right now)</h3>
 <p>I would call myself a dreamer 💭💭 I love good Food, Sports, Computer Science, Finance and Blockchain.</p>
