@@ -4,7 +4,7 @@
 <h3>A passionate globetrotter 🌍 based in italy (at least right now)</h3>
 <p>I would call myself a dreamer 💭💭 I love good Food, Sports, Computer Science, Finance and Blockchain.</p>
 
-<p>I've always been working on improving myself and I just finished a bootcamp with <a href="https://boolean.careers/" target="blank"><img align="center" src="https://boolean.careers/favicon/favicon.ico" alt="boolean.careers" height="30" width="30" /></a> boolean.careers to become a Full Stack WebDev</p>
+<p>I've always been working on improve myself and I just finished a bootcamp with <a href="https://boolean.careers/" target="blank"><img align="center" src="https://boolean.careers/favicon/favicon.ico" alt="boolean.careers" height="30" width="30" /></a> boolean.careers to become a Full Stack WebDev</p>
 
 - Reach me out over here **stefanopiotti472@gmail.com** 📫
 <hr>
