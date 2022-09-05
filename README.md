@@ -7,6 +7,7 @@
 <p>I've always been working on improve myself and I just finished a bootcamp with <a href="https://boolean.careers/" target="blank"><img align="center" src="https://boolean.careers/favicon/favicon.ico" alt="boolean.careers" height="30" width="30" /></a> boolean.careers to become a Full Stack WebDev</p>
 
 - Reach me out over here **stefanopiotti472@gmail.com** 📫
+- You can have a look at my Portfolio as well **https://stefano472.github.io/portfolio/** 🔎
 <hr>
 
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" width="400">
